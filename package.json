@@ -1,0 +1,24 @@
+{
+  "name": "side-navigation",
+  "version": "1.0.0",
+  "description": "Responsive Side navigation using React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilukshiWijayawardhana/Side-Navigation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilukshiWijayawardhana/Side-Navigation/issues"
+  },
+  "homepage": "https://github.com/DilukshiWijayawardhana/Side-Navigation#readme",
+  "dependencies": {
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.9.0"
+  }
+}
